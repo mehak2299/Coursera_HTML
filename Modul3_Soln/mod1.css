@@ -1,0 +1,116 @@
+li{
+    margin-right:20px;
+    margin-top:10px;
+}
+
+h3{
+    color:silver;
+    padding-left:0%;
+    
+}
+
+#brand{
+ 
+    color:silver;
+    font-size: 30px;
+ 
+}
+
+
+.row{
+    margin-top:10px;
+    padding:10px;
+}
+
+h1{
+    color:rebeccapurple;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+
+
+#main{
+    margin-top: 30px;    
+}
+
+#b1:hover{
+	background-color:linen;
+    color:black;
+    margin-right:40px;
+    margin-top:20px;
+    margin-left:50px;
+
+}
+
+#b2:hover{
+	background-color:lightcyan;
+    color:black;
+    margin-right:40px;
+    margin-top:20px;
+    margin-left:50px;
+
+}
+
+#b2{
+    background-color:cornflowerblue;
+    margin-right:30px;
+    margin-top:10px;
+    margin-left:40px;
+}
+#b1{
+    background-color:chocolate;
+    margin-right:30px;
+    margin-top:10px;
+    margin-left:40px;
+}
+#b3{
+    background-color:tomato;
+    margin-right:30px;
+    margin-top:10px;
+    margin-left:40px;
+}
+
+#b3:hover{
+	background-color:lightgoldenrodyellow;
+    color:black;
+    margin-right:40px;
+    margin-top:20px;
+    margin-left:50px;
+  
+}
+
+
+@media (min-width: 576px) { 
+    body{
+   background-color:blanchedalmond;
+    color:black;
+    }
+}
+
+@media (min-width: 768px) { 
+    body{
+    background-color:bisque;
+    color:black;
+    }
+}
+
+
+@media (min-width: 992px) {
+    body{
+    background-color:silver;
+    color:black;
+    }
+ }
+
+ a{
+     color:gold;
+     text-decoration :none;
+     
+ }
+
+ a:hover{
+     color:lightcyan;
+     text-decoration:none;
+ }
