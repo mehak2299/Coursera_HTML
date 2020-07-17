@@ -34,25 +34,6 @@ h1{
 #main{
     margin-top: 30px;    
 }
-
-#b1:hover{
-	background-color:linen;
-    color:black;
-    margin-right:40px;
-    margin-top:20px;
-    margin-left:50px;
-
-}
-
-#b2:hover{
-	background-color:lightcyan;
-    color:black;
-    margin-right:40px;
-    margin-top:20px;
-    margin-left:50px;
-
-}
-
 #b2{
     background-color:cornflowerblue;
     margin-right:30px;
@@ -72,14 +53,7 @@ h1{
     margin-left:40px;
 }
 
-#b3:hover{
-	background-color:lightgoldenrodyellow;
-    color:black;
-    margin-right:40px;
-    margin-top:20px;
-    margin-left:50px;
-  
-}
+
 
 
 @media (min-width: 576px) { 
